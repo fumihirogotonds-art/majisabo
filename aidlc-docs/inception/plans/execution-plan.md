@@ -1,4 +1,4 @@
-# Execution Plan
+﻿# Execution Plan
 
 > **プロジェクト**: マジメニサボル（マジサボ）
 > **タイプ**: Greenfield
