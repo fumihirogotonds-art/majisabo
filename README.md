@@ -53,7 +53,7 @@ AWS Summit Japan 2026 AI-DLC ハッカソン「人をダメにするサービス
 | **ダメ度スコア** | サボりの上達度を0〜100で数値化 |
 | **サボりロードマップ** | Lv.1〜5の段階的ステップで成長を可視化 |
 | **サボりチャレンジ** | 「明日やること」を1つ提示し、行動変容を促す |
-| **行動追跡** | ミュート後7日間メンションチェックで「サボり成功」を確定 |
+| **行動追跡** | 48hリマインド＋7日間メンションチェックで「サボり成功」を確定 |
 
 <p align="center">
   <img src="docs/images/roadmap.png" alt="サボりロードマップ" width="400">
@@ -151,7 +151,7 @@ project/aidlc-docs/
 │   ├── requirements/
 │   │   └── final-concept.md          # 最終コンセプト（確定版）
 │   ├── user-stories/
-│   │   ├── stories.md                # ユーザーストーリー（14件）
+│   │   ├── stories.md                # ユーザーストーリー（15件）
 │   │   └── personas.md               # ペルソナ（5名）
 │   ├── application-design/
 │   │   ├── application-design.md     # 統合設計ドキュメント
