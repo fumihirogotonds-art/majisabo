@@ -28,14 +28,14 @@
 
 | Unit | 予選Must | 予選Should | 決勝 |
 |------|---------|-----------|------|
-| **U1** auth-unit | US-01 | | US-10 |
+| **U1** auth-unit | US-01 | | US-11 |
 | **U2** slack-connector-unit | US-02 | US-07 | |
-| **U3** judgment-engine-unit | US-03 | US-08, US-09 | US-12 |
-| **U4** score-calculator-unit | US-05（一部） | | US-11, US-14 |
-| **U5** daily-reporter-unit | US-06 | | US-12, US-13 |
+| **U3** judgment-engine-unit | US-03 | US-08, US-09, US-10 | US-13 |
+| **U4** score-calculator-unit | US-05（一部） | | US-12, US-15 |
+| **U5** daily-reporter-unit | US-06 | | US-13, US-14 |
 | **U6** action-tracker-unit | US-04 | | |
-| **U7** dashboard-api-unit | US-05（一部） | US-09 | US-10, US-11, US-14 |
-| **U8** dashboard-ui-unit | US-05（一部） | US-09 | US-11 |
+| **U7** dashboard-api-unit | US-05（一部） | US-09 | US-11, US-12, US-15 |
+| **U8** dashboard-ui-unit | US-05（一部） | US-09 | US-12 |
 
 ---
 

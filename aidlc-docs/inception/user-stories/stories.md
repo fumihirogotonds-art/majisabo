@@ -291,12 +291,12 @@ block-beta
 
     block:should:5
         columns 5
-        s1["US-07\nメール連携"] s2["US-08\nメール判定"] s3[" "] s4["US-09\nアクション評価"] s5[" "]
+        s1["US-07\nメール連携"] s2["US-08 メール判定\nUS-10 会議判定"] s3[" "] s4["US-09\nアクション評価"] s5[" "]
     end
 
     block:final:5
         columns 5
-        f1["US-10\n招待"] f2[" "] f3[" "] f4["US-11\nチームDB"] f5["US-12 チーム提案\nUS-13 ノウハウ\nUS-14 KPI"]
+        f1["US-11\n招待"] f2[" "] f3[" "] f4["US-12\nチームDB"] f5["US-13 チーム提案\nUS-14 ノウハウ\nUS-15 KPI"]
     end
 
     style header fill:#37474F,color:#fff
@@ -315,7 +315,7 @@ block-beta
 |---------|-----------|------|
 | **予選MVP Must** | US-01〜US-06 | 6件 |
 | **予選MVP Should** | US-07〜US-10 | 4件 |
-| **決勝** | US-10〜US-14 | 5件 |
+| **決勝** | US-11〜US-15 | 5件 |
 
 ### 予選Must 6件の工数見積もり
 
